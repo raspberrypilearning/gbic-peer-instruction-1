@@ -4,7 +4,7 @@ The data collected for the project will be on students' attitudes to computing b
 
 In order to assess whether this intervention affects attitudes towards computing, you will need to assign time in Unit 1 Lesson 1 to complete the pre-survey and at the end of the final lesson (Unit 2 Lesson 6) to complete the post-survey.
 
-The project guide also outlines how to explain the data collection to your students so that they can opt out if they do not wish their data to be collected. Any student who has opted out, by their own choice or by their parents'/carers' choice, should not complete the surveys described below. They will, however, take part in lessons as usual, and so will experience the intervention along with the rest of the class.
+The Project Guide also outlines how to explain the data collection to your students so that they can opt out if they do not wish their data to be collected. Any student who has opted out, by their own choice or by their parents'/carers' choice, should not complete the surveys described below. They will, however, take part in lessons as usual, and so will experience the intervention along with the rest of the class.
  
 It is really important that both the pre- and post-surveys are completed, because this is how we will measure the effectiveness of the Peer Instruction intervention. 
 
