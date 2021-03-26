@@ -8,7 +8,11 @@ Peer Instruction can replace a traditional presentation approach by combining pr
 
 Peer Instruction follows a number of stages, beginning with **pre-instruction**. Pre-instruction is a method in which teachers introduce pupils to a concept in advance of the next lesson. Pre-instruction materials were traditionally extracted from text-books or articles. Educators sought to ensure that students read these materials before lectures. For schools, pre-instruction can be text-based, or can use videos or visuals such as a diagram or mind-maps relating to the concept to be taught. Where home learning is not possible, pre-instruction activities should build on previous lessons, or even on content studied earlier in the lesson.
 
-During the lesson, **Multiple Choice Questions** and **peer discussion** are then used to deepen understanding of the key concepts being taught. Using carefully-chosen options for the incorrect 'distractor' answers in the Multiple Choice Questions (MCQs) allows the teacher to identify specific misconceptions that the pupils hold and to address these misconceptions during the lesson. After answering independently, pupils engage in peer discussion about the possible answers, aiming to reach a consensus and answer as a group. The teacher then leads a class discussion to address any misconceptions held by the pupils and to link to the pre-instruction materials and content of the lesson. Teachers may choose to use a different but related MCQ to check for understanding later in the lesson, or later in the unit of work, to check for understanding.
+During the lesson, **Multiple Choice Questions** and **peer discussion** are then used to deepen understanding of the key concepts being taught. Using carefully-chosen options for the incorrect 'distractor' answers in the Multiple Choice Questions (MCQs) allows the teacher to identify specific misconceptions that the pupils hold and to address these misconceptions during the lesson. 
+
+After answering independently, pupils engage in peer discussion about the possible answers, aiming to reach a consensus and answer as a group. 
+
+The teacher then leads a class discussion to address any misconceptions held by the pupils and to link to the pre-instruction materials and content of the lesson. Teachers may choose to use a different but related MCQ to check for understanding later in the lesson, or later in the unit of work, to check for understanding.
 
 To better understand how to use the **MCQ cycle** in your lessons, watch the short video below.
 
