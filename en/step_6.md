@@ -2,7 +2,7 @@
 
 The data collected for the project will be on students' attitudes to computing before and after implementing the Peer Instruction intervention for 12 weeks (or 12 hours of lessons). As outlined in the Memorandum of Understanding, your school should have sent out information letters to parents/carers to allow them to opt out of data collection on their child's behalf if they wish to.
 
-In order to assess whether this intervention affects attitudes towards computing, you will need to assign time in Unit 1 Lesson 1 to complete the pre-survey and at the end of the final lesson (Unit 2 Lesson 6) to complete the post-survey.
+In order to assess whether this intervention affects attitudes towards computing, you will need to assign time in the first lesson to complete the pre-survey and at the end of the final lesson to complete the post-survey.
 
 The Project Guide also outlines how to explain the data collection to your students so that they can opt out if they do not wish their data to be collected. Any student who has opted out, by their own choice or by their parents'/carers' choice, should not complete the surveys described below. They will, however, take part in lessons as usual, and so will experience the intervention along with the rest of the class.
  
