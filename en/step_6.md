@@ -16,7 +16,7 @@ Survey questions are answered with reference to a 4-point Likert scale ranging f
 
 At the end of the project, you may be contacted by our colleagues in the Behavioural Insights Team, who may wish to ask you some questions about participating in the project, which is separate from the survey data. Please do respond to them to help us better understand your experience of the research programme.
 
-Click the green button (below right) to go to the next step in Session 1.
+Click the green button (below right) to go to the next step in this session.
 
-You can go back to the [start of Part 1 here](https://projects.raspberrypi.org/en/projects/).
-You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/).
+You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/gbic-peer-instruction-1).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-peer-instruction-training).
