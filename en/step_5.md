@@ -14,10 +14,16 @@ After answering independently, pupils engage in peer discussion about the possib
 
 The teacher then leads a class discussion to address any misconceptions held by the pupils and to link to the pre-instruction materials and content of the lesson. Teachers may choose to use a different but related MCQ to check for understanding later in the lesson, or later in the unit of work, to check for understanding.
 
+--- task ---
+
 To better understand how to use the **MCQ cycle** in your lessons, watch the short video below.
 
-![PIanimation]
+ <video width="600" controls>
+  <source src="images/PIanimation.mp4" type="video/mp4">
+Your browser does not support mp4 video.
+</video> 
 
+--- /task ---
 
 Peer Instruction is not an assessment tool, but a means of instruction; teachers should shift the focus away from getting the correct answers, and instead, promote the participation and discussion aspects of the approach. The peer discussion in Step 3 is particularly important and should run between 2–4 minutes. This can feel like a long time, but it is time well spent! 
 
