@@ -20,7 +20,6 @@ To better understand how to use the **MCQ cycle** in your lessons, watch the sho
 
  <video width="600" controls>
   <source src="images/PIanimation.mp4" type="video/mp4">
-Your browser does not support mp4 video.
 </video> 
 
 --- /task ---
