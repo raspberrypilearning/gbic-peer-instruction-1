@@ -1,6 +1,6 @@
 ## Peer Instruction
 
-Peer Instruction has been selected as a teaching approach for this project because of its focus on collaboration, which research in other disciplines has suggested improves girls' engagement. Peer Instruction was developed originally to teach physics in higher education, with the aim of ensuring that pupils gain a secure understanding of concepts through a teacher’s identification of misconceptions in real time. The approach also aims to create a question-driven learning environment that fosters conceptual reasoning and collaboration. Peer Instruction uses a combination of 'flipped learning' and group discussion of multiple choice questions in lessons.
+Peer Instruction has been selected as a teaching approach for this project because of its focus on collaboration, which research in other disciplines has suggested improves girls' engagement. Peer Instruction was developed originally to teach physics in higher education, with the aim of ensuring that students gain a secure understanding of concepts through an educator’s identification of misconceptions in real time. The approach also aims to create a question-driven learning environment that fosters conceptual reasoning and collaboration. Peer Instruction uses a combination of 'flipped learning' and group discussion of multiple choice questions in lessons.
 
 ## Research background
 
