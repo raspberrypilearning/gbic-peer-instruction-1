@@ -6,7 +6,7 @@ It is part of the National Centre for Computing Education (NCCE), which is deliv
 
 The NCCE's vision is for every child in every school in England to have a world-leading computing education. We provide high-quality support for the teaching of computing in schools and colleges, from key stage 1 through to A level. Our extensive range of training, resources, and support covers elements of the curriculum at every key stage, catering for all levels of subject knowledge and experience.
 
-![Diagram with the title 'Four themed intervention'. The words 'Gender Balance in Computing' is in a square in the centre. There is a circle with four boxes around it. Each box is named after one of the interventions: Teaching approach, Relevance, Non-formal learning, and Belonging.](images/NCCEImage.png)
+![Diagram with the title 'Four themed intervention'. The words 'Gender Balance in Computing' are in a square in the centre of a circle. Around the circle are four boxes, in each box is the name of one of the interventions: Teaching approach, Relevance, Non-formal learning, and Belonging.](images/NCCEImage.png)
 
 The Gender Balance in Computing programme of research is the largest national research effort to tackle gender balance in computing to date. Trials began in 2019 and will run to 2022 in key stages 1 to 4. By the end of 2022, more than 15,000 pupils and 550 schools will be involved in the programme.
 
