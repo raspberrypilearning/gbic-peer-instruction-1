@@ -4,7 +4,7 @@ Peer Instruction can replace a traditional presentation approach by combining pr
 
 ## Stages of Peer Instruction
 
-![Diagram of the process of Peer Instruction. It shows three stages of the teaching approach: Pre-instruction, Peer Instruction activity, and multiple choice questions.](images/i1aS2-PIimage.png)
+![Diagram of the process of Peer Instruction. It shows three stages of the teaching approach: pre-instruction, the Peer Instruction activity, and multiple choice questions.](images/i1aS2-PIimage.png)
 
 Peer Instruction follows a number of stages, beginning with **pre-instruction**. Pre-instruction is a method in which teachers introduce pupils to a concept in advance of the next lesson. Pre-instruction materials were traditionally extracted from textbooks or articles. Educators sought to ensure that students read these materials before lectures. For schools, pre-instruction can be text-based, or can use videos, or visuals such as diagrams and mind maps relating to the concept to be taught. Where home learning is not possible, pre-instruction activities should build on previous lessons, or even on content studied earlier in the lesson.
 
