@@ -1,16 +1,20 @@
-title: "Session 1: 'Peer Instruction' Teaching Approach training – Introduction"
+---
+title: 'Session 1: ''Peer Instruction'' Teaching Approach training – Introduction'
 hero_image: images/introduction1.png
-description: Session 1 of the online training course introduces teachers to the project and some of the resources for the 'Peer Instruction' Teaching Approach project
+description: Session 1 of the online training course introduces teachers to the project
+  and some of the resources for the 'Peer Instruction' Teaching Approach project
 version: 4
 listed: false
 copyedit: false
-last_tested: "2021-03-26"
+last_tested: '2021-03-26'
 steps:
-  - title: Introduction to the course
-  - title: The Gender Balance in Computing (GBIC) programme
-  - title: The Teaching Approach trial
-  - title: Research in Peer Instruction
-  - title: What is Peer Instruction?
-  - title: Data collection using the online survey
-  - title: Additional information and guidance
-  - title: Summary of Session 1
+- title: Introduction to the course
+  completion: engaged
+- title: The Gender Balance in Computing (GBIC) programme
+- title: The Teaching Approach trial
+- title: Research in Peer Instruction
+- title: What is Peer Instruction?
+- title: Data collection using the online survey
+- title: Additional information and guidance
+  completion: internal
+- title: Summary of Session 1
